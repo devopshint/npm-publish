@@ -1,0 +1,19 @@
+{
+  "name": "npm-publish",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devopshint/npm-publish.git"
+  },
+  "author": "devopshint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devopshint/npm-publish/issues"
+  },
+  "homepage": "https://github.com/devopshint/npm-publish#readme"
+}
